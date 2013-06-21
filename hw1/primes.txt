@@ -1,0 +1,47 @@
+#!/usr/bin/env node
+
+var fs = require('fs'),
+    outfile = 'primes.js',
+    list;
+
+var isPrime = function (num) {
+    'use strict';
+
+    var prime    = true,                        // assume primality
+        boundary = Math.floor(Math.sqrt(num)),  // factors' inflection point
+        factor;
+
+    // quick filter for all even numbers except 2
+    if (num > 2 && num % 2 === 0) {
+        prime = false;
+    }
+
+    // now test every odd number from 3
+    for (factor = 3; factor <= boundary; factor += 2) {
+        if (num % factor === 0) {
+            prime = false;
+        }
+    }
+
+    return prime;
+};
+
+var printPrimes = function (items) {
+    'use strict';
+
+    var ret = [],
+        num = 2;
+
+    while (ret.length < items) {
+        if (isPrime(num)) {
+            ret.push(num);
+        }
+        num++;
+    }
+
+    return ret.join(',') + '\n';
+};
+
+list = printPrimes(100);
+
+fs.writeFileSync(outfile, list);

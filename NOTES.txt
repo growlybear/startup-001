@@ -1,0 +1,25 @@
+From Lecture 1:
+It captures something which is obvious to people in the Valley, but not yet
+obvious to the rest of the world, which is that anything which has an
+informational component - which is pretty much every industry - is going to be
+hollowed out with a database and an API at the centre of it. And the company
+that does that is going to have operational efficiencies that are far greater
+than any of the existing incumbents. And that's what's happening right now, with
+Uber doing that for taxis, and AirBnB doing it for hotels, and I'd say that our
+company Counsyl is doing that to some extent in laboratories and for genomics.
+
+
+From "Software is Eating the World":
+Secondly, many people in the U.S. and around the world lack the education and
+skills required to participate in the great new companies coming out of the
+software revolution. This is a tragedy since every company I work with is
+absolutely starved for talent. Qualified software engineers, managers, marketers
+and salespeople in Silicon Valley can rack up dozens of high-paying, high-upside
+job offers any time they want, while national unemployment and underemployment
+is sky high. This problem is even worse than it looks because many workers in
+existing industries will be stranded on the wrong side of software-based
+disruption and may never be able to work in their fields again.There's no way
+through this problem other than education, and we have a long way to go.
+
+
+http://danielkehoe.com/how-to-do-keyword-research

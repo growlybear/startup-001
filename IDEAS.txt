@@ -1,4 +1,7 @@
 1.  Renovation suburb heatmap
+      - including John Lindeman's methodology on optimising organic potential
+        with data scraped from REIV and wherever else has both the number of
+        sales in a suburb and the median sale value
 
 2.  Vendor Finance JV website, with JV Calculator functionality
       (ie. investment returns, timeframes, ROI, etc.)
@@ -9,3 +12,5 @@
       push for a share of the company growth)
 
 5.  Information products
+
+6.  Kids' Speed Maths application

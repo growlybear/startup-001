@@ -14,3 +14,22 @@
 5.  Information products
 
 6.  Kids' Speed Maths application
+
+
+
+
+New instance set-up commands
+============================
+sudo apt-get install -y git-core
+wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+which git
+git config --global user.name "Michael Allan"
+git config --global user.email michaelallan@optushome.com.au
+which heroku
+heroku login
+ssh-keygen -t rsa
+heroku keys:add
+git clone https://github.com/heroku/node-js-sample.git
+cd node-js-sample/
+heroku create
+git push heroku master

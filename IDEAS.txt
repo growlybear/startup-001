@@ -15,6 +15,14 @@
 
 6.  Kids' Speed Maths application
 
+7.  PhantomJS/HAR viewer front-end monitoring tool. Easy to view/understand dashboard
+      whether my website getting faster or slower on the front-end. Drill-down into
+      waterfalls/HAR files. Cf.
+
+      http://www.softwareishard.com/blog/har-viewer/
+      https://developers.google.com/live/shows/ahNzfmdvb2dsZS1kZXZlbG9wZXJzcg4LEgVFdmVudBjx4q0DDA
+
+
 
 
 
